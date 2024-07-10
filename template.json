@@ -1,0 +1,7 @@
+{
+    "name": "wails_template_nextjs_with_app_router_and_tailwind",
+    "shortname": "wails_nextjs",
+    "author": "techlism",
+    "description": "A wails app template with Nextjs (app router), TypeScript and TailwindCSS" ,
+    "helpurl": "https://github.com/techlism/wails_template_nextjs_with_app_router_and_tailwind"
+}
