@@ -12,6 +12,7 @@ You can configure the project by editing `wails.json`. More information about th
 here: <https://wails.io/docs/reference/project-config>
 
 P.S. Not yet tested thoroughly. Compiled on Windows. Please report/contribute any issues.
+Another small thing - you may not see the public folder in the frontend but you can always create one. It wasn't needed in the template so I didn't include it.
 
 ## Usage
 

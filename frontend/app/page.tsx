@@ -15,8 +15,8 @@ export default function Home(){
           </p>
         </div>
         <div className="flex flex-col max-w-fit">
-          <Link href={'/dummy'} className="border p-4 rounded-lg bg-primary hover:opacity-75">
-            Go to Dummy Route
+          <Link href={'/greet'} className="border p-4 rounded-lg bg-primary hover:opacity-75">
+            Go to Greet Route
           </Link>
           <Link href={'https://wails.io'} target={'_blank'} className="border p-4 rounded-lg bg-primary my-4 hover:opacity-75">
             Learn More about Wails
