@@ -18,7 +18,7 @@ P.S. Not yet tested thoroughly. Compiled on Windows. Please report/contribute an
 To create a new project using this template, run the following command:
 
 ```bash
-wails init -n "Name of your Project" -t https://github.com/techlism/wails-nextjs-ts-tailwind
+wails init -n "Name of your Project" -t https://github.com/techlism/wails_template_nextjs_with_app_router_and_tailwind
 ```
 
 ## Live Development
