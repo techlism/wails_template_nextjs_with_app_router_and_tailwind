@@ -1,0 +1,13 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "Wails App with Nextjs, TypeScript and TailwindCSS",
+  "outputfilename": "Wails-Nextjs-App",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "techlism",
+    "email": "2021itb049.kundan@students.iiests.ac.in"
+  }
+}
