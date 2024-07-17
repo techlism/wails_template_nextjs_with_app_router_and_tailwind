@@ -11,7 +11,7 @@ export default function Home(){
         </div>
         <div>
           <p className="text-lg my-4">
-            This is a template for creating Desktop apps using <span className="text-lg font-medium text-[#DF0000]">Wails</span> with Next.js and TailwindCSS. It's a great starting point for building your next Desktop app. Any contributions are welcome.
+            This is a template for creating Desktop apps using <span className="text-lg font-medium text-[#DF0000]">Wails</span> with Next.js and TailwindCSS. It&apos;s a great starting point for building your next Desktop app. Any contributions are welcome.
           </p>
         </div>
         <div className="flex flex-col max-w-fit">
